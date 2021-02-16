@@ -1,0 +1,28 @@
+span {
+  background: #00FF00;
+  width: 75px;
+  height: 50px;
+  display: block;
+
+}
+
+div {
+  background: #00FFFF;
+  width: 50%;
+  height: 100px;
+
+  color: #C0C0C0;
+  text-align: left;
+  border-style: groove;
+}
+
+p {
+  background: #FF00FF;
+  width: 200px;
+  height: 100px;
+}
+
+h2{
+  background-color: #00B7EA;
+  color: #666666;
+}
